@@ -1,0 +1,1 @@
+{"income1": 0.2,"income2": 0.2,"income3": 0.2,"income4": 0.2,"frostChance": 0.2}
